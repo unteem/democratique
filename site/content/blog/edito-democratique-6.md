@@ -28,3 +28,5 @@ Qui sont donc ces gens qui craignent le pire, toutes les fois où le pouvoir se 
 
 Si cette hypothèse est exacte, alors est-il vraiment étonnant que la politique et la presse – où les réactionnaires viscéraux sont surreprésentés – soient aussi peu populaires au sein d’une population qui soutient massivement l’élargissement de certains droits politiques ? Non bien sûr. Et, est-il normal que les membres de mouvements populaires comme les Gilets Jaunes doivent passer leur temps à rassurer ces gens sur le fait qu’ils ne sont pas antisémites, ni homophobes, ni complotistes ? Non plus. La réaction viscérale est une maladie, qu’il ne sert à rien d’essayer de rassurer. Heureusement cependant, c’est une maladie qui passe avec les réformes. Plus personne aujourd’hui n’a peur du suffrage universel ni du vote des femmes ou des noirs. Plus personne non plus n’aura peur du RIC, une fois qu’il sera mis en place. 
 
+(Relu et corrigé par Baptiste Pichot)
+
