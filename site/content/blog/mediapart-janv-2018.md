@@ -1,5 +1,5 @@
 +++
-title = "Vidéo : Raul Magni-Berton dans Médiapart sur le RIC et JG"
+title = "Vidéo : Raul Magni-Berton dans Médiapart sur le RIC et GJ"
 date = "2019-01-19T13:00:46+02:00"
 tags = ["Mediapart","RIC"]
 categories = ["Presse","vidéos"]
