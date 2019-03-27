@@ -124,7 +124,7 @@ paginate = 10
     enable = true
     text = """<p style="
     font-weight: bold;     text-transform: uppercase;
-"> <a href="https://parlement.democratique.org/login" data-animate-hover="pulse" style="    border: 2px solid;
+"> <a href="https://parlement.democratique.org" data-animate-hover="pulse" style="    border: 2px solid;
     border-radius: 10px;
     padding: 5px;
     padding-top: 8px;
