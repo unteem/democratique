@@ -24,7 +24,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Événements"
-    url  = "https://parlement.democratique.org/c/discussions-publiques/evenements/l/agenda"
+    url  = "https://parlement.democratique.org/c/evenements/l/agenda"
     weight = 2
 
 [[menu.main]]
