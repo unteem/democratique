@@ -1,6 +1,12 @@
 +++
-title = "Réclamons un RIC constitutionnel !"
+title = "Pétition pour obtenir le RIC par l'article 89"
+date = "2019-04-03T12:00:00+01:00"
+tags = ["RIC","Démocratie directe","Pétition", "article 89"]
+categories = ["communiqués"]
+banner = "img/articles/livre-ric.jpg"
 +++
+
+**Réclamons un RIC constitutionnel !**
 
 Pour signer la pétition allez ici
 <https://www.change.org/p/steven-lebee-obtenir-le-ric>
