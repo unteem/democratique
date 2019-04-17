@@ -3,7 +3,7 @@ title = "Vidéo : Raul Magni-Berton et Ismaël Benslimane interviewés par Franc
 date = "2019-04-17T10:53:00+02:00"
 tags = ["France 3","livre","RIC","élections européennes"]
 categories = ["Presse","vidéos"]
-banner = "img/articles/france-3-itw"
+banner = "img/articles/france-3-itw.png"
 +++
 
 Raul Magni-Berton et Ismaël Benslimane ont été interviewés hier par France 3
