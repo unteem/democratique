@@ -21,3 +21,6 @@ croire le résumé qu'en a fait le journaliste.*
 
 L'interview est accompagnée d'un article sur le site de France 3 régions :
 https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/ric-explique-tous-prof-sciences-po-grenoble-1656410.html
+
+Nous tenons également à rappeler que contrairement à ce qui est écrit dans cet
+article, Raul n'est pas « auteur » du livre mais *co-auteur* avec Clara Egger.
