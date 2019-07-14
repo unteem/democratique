@@ -18,29 +18,34 @@ paginate = 10
 # Main menu
 
 [[menu.main]]
-    name = "Actualités"
+    name = "Blog"
     url  = "/blog/"
-    weight = 1
+    weight = 4
 
-[[menu.main]]
-    name = "Événements"
-    url  = "https://parlement.democratique.org/c/evenements/l/agenda"
-    weight = 2
+#[[menu.main]]
+#    name = "Événements"
+#    url  = "https://parlement.democratique.org/c/evenements/l/agenda"
+#    weight = 5
 
 [[menu.main]]
     Name = "Le projet"
     URL = "/manifeste/"
-    Weight = 4
+    Weight = 2
 
 [[menu.main]]
     name = "Pétition #RIC"
     url  = "/petition/"
+    weight = 1
+
+[[menu.main]]
+    name = "Questions/Réponses"
+    url  = "/faq/"
     weight = 3
 
 [[menu.main]]
-    name = "FAQ"
-    url  = "/faq/"
-    weight = 5
+    name = "Nous contacter"
+    url  = "/contact/"
+    weight = 6
 
 
 
@@ -121,7 +126,7 @@ paginate = 10
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = true
+    enable = false
     text = """<p style="
     font-weight: bold;     text-transform: uppercase;
 "> <a href="https://parlement.democratique.org" data-animate-hover="pulse" style="    border: 2px solid;
