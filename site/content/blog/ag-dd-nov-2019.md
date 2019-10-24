@@ -17,8 +17,8 @@ Démocratique n’as pas chômé.
 
 Pour revenir sur tout cela et surtout préparer la suite, nous vous attendons :
 
-<mark>**à la Maison des Associations de Grenoble (6 rue Berthe de Boissieux,
-tout près de la Caserne de Bonne) de 18h à 21h**</mark>
+<mark>**le vendredi 22 novembre à la Maison des Associations de Grenoble (6 rue
+Berthe de Boissieux, tout près de la Caserne de Bonne) de 18h à 21h**</mark>
 
 Au-delà du retour sur les activités tenues et en cours, nous accueillerons
 plusieurs collectifs locaux et avoisinants qui agissent pour la démocratie
