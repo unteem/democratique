@@ -126,15 +126,10 @@ paginate = 10
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = false
-    text = """<p style="
-    font-weight: bold;     text-transform: uppercase;
-"> <a href="https://parlement.democratique.org" data-animate-hover="pulse" style="    border: 2px solid;
-    border-radius: 10px;
-    padding: 5px;
-    padding-top: 8px;
-"><i class='fas fa-2x fa-users' style=" vertical-align: sub;     margin-right: 5px;"></i> <span  class='hidden-sm hidden-xs'>Nous rejoindre sur l'espace membres </span></a></p>
-      """
+    enable = true
+    text = """ """
+#<p style="    font-weight: bold;     text-transform: uppercase;"> <a href="https://parlement.democratique.org" data-animate-hover="pulse" style="    border: 2px solid;   border-radius: 10px;  padding: 5px;  padding-top: 8px;"><i class='fas fa-2x fa-users' style=" vertical-align: sub;     margin-right: 5px;"></i> <span  class='hidden-sm hidden-xs'>Nous rejoindre sur l'espace membres </span></a></p>      
+
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
