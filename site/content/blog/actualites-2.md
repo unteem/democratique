@@ -29,31 +29,32 @@ limites du système représentatif. Son attrait s’arrête quand il s’agit de
 un pouvoir d’initiative aux citoyens dans la proposition de lois sur les sujets
 les plus fondamentaux. Il s’agit donc d’une mesure « corrective » qui fut
 instaurée pour la première fois en 2015 avec quelques sévères limitations :
-référendum abrogatif, non obligatoire, et excluant certains sujets cruciaux (sur
-la monarchie, les questions budgétaires, constitutionnelles et liées à la
-coopération internationale). Malgré ses limites, la loi fut abrogée en 2018,
-suite à plusieurs votes consacrant l’opposition des électeurs néerlandais sur la
-politique européenne. Rappelons qu’eux aussi nous ont rejoint au Panthéon de
-ceux qui ont voté non au Projet de Constitution pour l’Europe en 2005. Même
-facultatif, le RIC est un puissant outil de pression sur les élus. Ignorer
-l’opposition des électeurs à une politique peut coûter très cher. Il vaut mieux
-donc ne pas la laisser s’exprimer de façon trop visible, surtout lorsque
-Bruxelles fait pression pour que les Pays-Bas donne l’exemple en matière
+référendum abrogatif uniquement consultatif, et excluant certains sujets
+cruciaux (sur la monarchie, les questions budgétaires, constitutionnelles et
+liées à la coopération internationale). Malgré ses limites, la loi fut abrogée
+en 2018, suite à plusieurs votes consacrant l’opposition des électeurs
+néerlandais sur la politique européenne. Rappelons qu’eux aussi nous ont rejoint
+au Panthéon de ceux qui ont voté non au Projet de Constitution pour l’Europe en
+2005. Même facultatif, le RIC est un puissant outil de pression sur les élus.
+Ignorer l’opposition des électeurs à une politique peut coûter très cher.
+Il vaut mieux donc ne pas la laisser s’exprimer de façon trop visible, surtout
+lorsque Bruxelles fait pression pour que les Pays-Bas donne l’exemple en matière
 européenne.
 
 Pourtant, voilà qu’au gré d’un changement de majorité, le RIC est de nouveau sur
 le devant de la scène aux Pays-Bas. Il faut ici souligner que quasiment tous les
-partis politiques (sauf le Parti populaire pour la liberté et la démocratie
-(libéral conservateur, VVD) et l’Appel Chrétien Démocrate (CDA) – on notera ici
-les usages pour le moins ambigus des références à la démocratie).
+partis politiques sont favorables au référendum abrogatif, à l'exception du
+Parti Populaire pour la Liberté et la Démocratie (libéral conservateur, VVD) et
+l’Appel Chrétien Démocrate (CDA) – on notera ici les usages pour le moins
+ambigus des références à la démocratie.
 
 Fort de l’expérience gagnée, l’ambition est aussi plus grande. La proposition de
 loi déposée par Ronald van Raak, député du Parti Socialiste (_Socialistische
-Partij_, social-démocrate) proposant de réintroduire un référendum abrogatif mais
-cette fois obligatoire a reçu un avis positif du Conseil d’État, principal
-organe consultatif du gouvernement néerlandais. La lecture de l’avis révèle le
-fossé qui sépare le débat politique néerlandais de l’hystérie française en la
-matière.
+Partij_, social-démocrate) proposant de réintroduire un référendum abrogatif,
+mais contraignant cette fois, a reçu un avis positif du Conseil d’État,
+principal organe consultatif du gouvernement néerlandais. La lecture de l’avis
+révèle le fossé qui sépare le débat politique néerlandais de l’hystérie
+française en la matière.
 
 Le RIC abrogatif est y présenté comme un bon moyen de réduire les « sentiments
 d’isolement, d’aliénation et d’exclusion » parmi certains groupes de personnes
