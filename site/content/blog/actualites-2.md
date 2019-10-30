@@ -16,12 +16,12 @@ général et le référendum d’initiative citoyenne en particulier. Pays libé
 excellence – au sens politique et culturel du terme – il dispose d’une des
 procédures de révision constitutionnelle les plus rigides parmi les démocraties
 établies[^1]. Dans le même temps, le système électoral néerlandais laisse beaucoup
-de choix aux électeurs : il est l’un des plus proportionnel et permet aux votant
-de préférer un candidat particulier sur une liste. Ces traits expliquent sans
-doute le poids du consensus (le polder) dans la culture politique néerlandaise :
-la règle est de vivre et laisser vivre, tout en composant, au cas par cas des
-politiques spécifiques, avec les préférences de chacun tant qu’elles respectent
-un ensemble de valeurs communes non négociables.
+de choix aux électeurs : il est l’un des plus proportionnel et permet aux
+votants de préférer un candidat particulier sur une liste. Ces traits expliquent
+sans doute le poids du consensus (le _polder_) dans la culture politique
+néerlandaise : la règle est de vivre et laisser vivre, tout en composant, au cas
+par cas des politiques spécifiques, avec les préférences de chacun tant qu’elles
+respectent un ensemble de valeurs communes non négociables.
 
 Le RIC est perçu chez nos voisins néerlandais comme un instrument permettant
 d’accroître l’inclusion du système politique en corrigeant les dérives et
