@@ -74,15 +74,7 @@ loi sur le RIC[^2].
 Il est temps, grand temps, que les élus français cessent de se regarder le
 nombril et s’inspirent de ce qui se passent chez leurs voisins.
 
-[^1]:  Le changement constitutionnel doit d’abord fait l’objet d’une proposition
-de loi (_voorstelwet_) adoptée par une simple majorité par la Première et la
-Seconde Chambre des tats Généraux (l’équivalent de l’Assemblée Nationale et du
-Sénat français, respectivement. Cette loi ne change pas la Constitution mais
-déclare qu’il y a suffisamment de raisons pour qu’une proposition d’amendement
-constitutionnel soit considérée. La première chambre doit ensuite  être dissoute
-pour que des élections générales soient tenues. La proposition de révision
-constitutionnelle est ensuite discutée à nouveau et doit cette fois être adoptée
-à la majorité des deux tiers pour être adoptée. 
+[^1]:  Le changement constitutionnel doit d’abord fait l’objet d’une proposition de loi (_voorstelwet_) adoptée par une simple majorité par la Première et la Seconde Chambre des tats Généraux (l’équivalent de l’Assemblée Nationale et du Sénat français, respectivement. Cette loi ne change pas la Constitution mais déclare qu’il y a suffisamment de raisons pour qu’une proposition d’amendement constitutionnel soit considérée. La première chambre doit ensuite  être dissoute pour que des élections générales soient tenues. La proposition de révision constitutionnelle est ensuite discutée à nouveau et doit cette fois être adoptée à la majorité des deux tiers pour être adoptée. 
 
 
 [^2]: https://blogs.mediapart.fr/raul-magni-berton/blog/100919/quand-les-parlementaires-debattent-du-ric
