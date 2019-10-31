@@ -34,14 +34,13 @@ cruciaux (sur la monarchie, les questions budgétaires et constitutionnelles).
 Malgré ses limites, la loi fut abrogée en 2018, suite à deux propositions. La
 remière visait à abroger le traité de coopération entre l'UE et l'Ukraine
 (proposition victorieuse dans les urnes), et la seconde à annuler la
-nouvelle loi sur le renseignement et la sécurité (qui n'a pas eu le temps d'être
-soumise aux électeurs). Rappelons qu’eux aussi nous ont rejoint au Panthéon de
-ceux qui ont voté non au Projet de Constitution pour l’Europe en 2005. Même
-facultatif, le RIC est un puissant outil de pression sur les élus. Ignorer
-l’opposition des électeurs à une politique peut coûter très cher. Il vaut mieux
-donc ne pas la laisser s’exprimer de façon trop visible, surtout lorsque
-Bruxelles fait pression pour que les Pays-Bas donne l’exemple en matière
-européenne.
+nouvelle loi sur le renseignement et la sécurité (qui a été perdu). Rappelons
+qu’eux aussi nous ont rejoint au Panthéon de ceux qui ont voté non au Projet de
+Constitution pour l’Europe en 2005. Même facultatif, le RIC est un puissant
+outil de pression sur les élus. Ignorer l’opposition des électeurs à une
+politique peut coûter très cher. Il vaut mieux donc ne pas la laisser s’exprimer
+de façon trop visible, surtout lorsque Bruxelles fait pression pour que les
+Pays-Bas donne l’exemple en matière européenne.
 
 Pourtant, voilà qu’au gré d’un changement de majorité, le RIC est de nouveau sur
 le devant de la scène aux Pays-Bas. Il faut ici souligner que quasiment tous les
